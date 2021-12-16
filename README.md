@@ -1,0 +1,7 @@
+# TB2-Pengolahan-Citra
+
+TEORI KONVOLUSI DAN TRANSFORMASI FOURIER
+
+Irwan Maulana - 41519120030
+Adhika Hermawan - 41519120090
+Devana Azzahra Salam - 41519120017
